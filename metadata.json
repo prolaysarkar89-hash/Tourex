@@ -1,0 +1,7 @@
+{
+  "name": "Tourex - AI Tour Planner",
+  "description": "A personalized tour package generator for North Bengal, Dooars, Darjeeling, and Sikkim. Answer a few questions or use your voice to get a custom itinerary in your preferred language.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
